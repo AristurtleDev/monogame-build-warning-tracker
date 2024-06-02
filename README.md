@@ -1,0 +1,1 @@
+# monogame-build-warning-tracker
